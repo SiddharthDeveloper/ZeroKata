@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29174625704",
+    "firebase_url": "https://zerokata-cb24f.firebaseio.com",
+    "project_id": "zerokata-cb24f",
+    "storage_bucket": "zerokata-cb24f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29174625704:android:079a54549f2fcddfbb599d",
+        "android_client_info": {
+          "package_name": "com.siddharth.ZeroKata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29174625704-2fbvckkq6igl3a9pkbcmhndijuhjkl93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddharth.ZeroKata",
+            "certificate_hash": "87d91521109c48161a314517e18e9f0159c94750"
+          }
+        },
+        {
+          "client_id": "29174625704-939bk4a7roo1nld3gbtn3ldmnp9clo64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtItbxy4dLSxdT3FAiU7J5h9-hcLCQlEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29174625704-939bk4a7roo1nld3gbtn3ldmnp9clo64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
